@@ -1,6 +1,6 @@
 # Welcome to "Kilino" 💦🪓🌀
 
-This is a cleaning team site. who cleans your house, toilet, office etc.  [Live site](https://kilino.web.app/home).
+This is a cleaning team site. who cleans your house, toilet, office etc.
 
 ## Functionalities
 1. Successfully Added Admin Panel for both client and admin.
